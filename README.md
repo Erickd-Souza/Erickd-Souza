@@ -21,7 +21,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1277712130505703506/1277712203671277721/icon-server.png?ex=66ce29b8&is=66ccd838&hm=f4fab52f650bb162b533de54b382134214cc2cc149194c6cd516862cff6d5ebb&"  />
+<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1277712130505703506/1278046127543025695/icon-server-removebg-preview.png?ex=66cf60b5&is=66ce0f35&hm=54f4517fe9e4f4159cff75d95833570b1c46625d195be35009ac9f8177480787&"  />
 
 ###
 
