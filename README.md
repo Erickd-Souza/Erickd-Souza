@@ -23,7 +23,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1277712130505703506/1278046127543025695/icon-server-removebg-preview.png?ex=67c34635&is=67c1f4b5&hm=3246fc7edae4906ce03cb054b8328c1893b2b7a77e0dbf1356a830cfea9b3752&"  />
+<img align="right" height="150" src="https://media.discordapp.net/attachments/1277712130505703506/1278046127543025695/icon-server-removebg-preview.png?ex=67df9e75&is=67de4cf5&hm=aad3e7807669696901f01b67d54f235c42a11da1352d550331581411c2934d82&=&format=webp&quality=lossless"  />
 
 ###
 
