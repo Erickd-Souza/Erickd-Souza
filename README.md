@@ -2,11 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Erickd-Souza&show_icons=true&theme=dracula&cache_seconds=86400" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erickd-Souza&layout=compact&theme=dracula&cache_seconds=86400" />
-</div>
-
 
 ###
 
