@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Erick, and I'm a software engineering student from Brazil.</h2>
 
 <div align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Erickd-Souza&show_icons=true&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Erickd-Souza&show_icons=true&theme=dracula&hide_border=true"/>
 </div>
 
 <h2>Tecnologias</h2>
